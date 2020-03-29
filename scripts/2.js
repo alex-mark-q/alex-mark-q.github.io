@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],[,function(a,n,p){(function(a){a(document).ready((function(){a(".wrapper__parallax").parallax({imageSrc:"earth.png"})}))}).call(this,p(0))}]]);
