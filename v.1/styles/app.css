@@ -374,7 +374,7 @@ template,
   animation-name: backInRight;
 }
 .header__fixed {
-  position: fixed;
+/*   position: fixed;
   top: 0;
   left: 0;
   background-color: #efefef;
@@ -383,7 +383,7 @@ template,
   -webkit-box-shadow: 0 2px 8px rgba(0,0,0,0.07);
           box-shadow: 0 2px 8px rgba(0,0,0,0.07);
   -webkit-animation: slideInDown 0.65s cubic-bezier(0.23, 1, 0.32, 1) both;
-          animation: slideInDown 0.65s cubic-bezier(0.23, 1, 0.32, 1) both;
+          animation: slideInDown 0.65s cubic-bezier(0.23, 1, 0.32, 1) both; */
 }
 @-moz-keyframes reveal {
   0% {
